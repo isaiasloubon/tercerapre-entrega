@@ -1,0 +1,25 @@
+// nesting
+
+header{
+    text-align: center;
+    background-image: linear-gradient(to top, rgb(0, 136, 148), rgba(162, 239, 255, 0.937));
+    nav{
+        ul{
+            li{
+                list-style-type: none;
+                 font-size: 20px;
+                 display: inline-block;
+                 font-weight: bold;
+                padding: 10px;
+                a{
+                    color: aliceblue;
+                    text-decoration: none;
+                    position: sticky;
+                    font-family: Verdana, Geneva, Tahoma, sans-serif;
+                }
+              
+            }
+        }
+    }
+
+}

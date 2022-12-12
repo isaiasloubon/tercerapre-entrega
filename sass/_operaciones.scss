@@ -1,0 +1,7 @@
+@mixin prueba ($width, $heigh){
+    height: $heigh;
+    width: $width;
+}
+.my_mixin{
+    @include prueba (500px, 50px)
+}

@@ -1,0 +1,64 @@
+
+.animacioninicio:hover{
+    transform: scale(1,2);
+}
+
+.animacioninicio{
+    transition-property: all;
+    transition-duration: 100ms;
+}
+
+
+
+
+
+.animacionbiografia:hover{
+    transform: scale(1,2);
+}
+
+.animacionbiografia{
+    transition-property: all;
+    transition-duration: 100ms;
+}
+
+
+
+
+
+.animacioncomienzos:hover{
+    transform: scale(1,2);
+}
+
+.animacioncomienzos{
+    transition-property: all;
+    transition-duration: 100ms;
+}
+
+
+
+
+.animacionultimoslanzamientos:hover{
+    transform: scale(1,2);
+}
+
+.animacionultimoslanzamientos{
+    transition-property: all;
+    transition-duration: 100ms;
+}
+
+
+
+
+
+.animacioncontacto:hover{
+    transform: scale(1,2);
+}
+
+.animacioncontacto{
+    transition-property: all;
+    transition-duration: 100ms;
+}
+
+
+
+

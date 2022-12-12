@@ -1,0 +1,31 @@
+h1{
+    color: rgb(150, 151, 152);
+    text-decoration: line-through white;
+    padding: 20px;
+    font-size: xx-large;
+
+    @media (min-width: 500px){
+        text-align: center;
+    }
+  
+}
+
+h3{
+    color: rgb(65, 65, 65);
+    text-align: center;
+    padding: 20px;
+    @media (min-width: 500px){
+        text-align: center;
+    }
+   
+    
+}
+
+h2{
+    color: aliceblue;
+    text-align: left;
+    padding: 20px;
+    @media (min-width: 500px){
+        text-align: center;
+    }
+}
